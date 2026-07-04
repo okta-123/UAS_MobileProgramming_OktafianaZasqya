@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "579260522939",
+    "project_id": "uas-mp-oktafiana",
+    "storage_bucket": "uas-mp-oktafiana.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579260522939:android:70fae802a702101605e49e",
+        "android_client_info": {
+          "package_name": "com.example.laundry_booking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579260522939-mltb5fanqs0ponvcotnt1a9nlkd9l4up.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC15Zy9A3vaYw2EvqpdSol0z10J9dl3Vuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579260522939-mltb5fanqs0ponvcotnt1a9nlkd9l4up.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
